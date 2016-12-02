@@ -11,7 +11,6 @@ using System.IO;
 using System.Xml;
 using System.Xml.Linq;
 
-// Hello!
 namespace IndexForumCrawler
 {
     public partial class Form1 : Form
